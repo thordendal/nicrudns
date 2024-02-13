@@ -1,4 +1,4 @@
-module github.com/libdns/nicrudns
+module github.com/thordendal/nicrudns
 
 go 1.16
 
